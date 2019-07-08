@@ -1,0 +1,27 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#submit-btn {
+  font-size: 21px;
+  height: 41px;
+  width: 73px;
+  background-color: #3379B7;
+  color: white;
+  border-radius: 5px;
+}
+
+#question-box {
+  height: 41px;
+  width: 300px;
+  font-size: 20px;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+
+body {
+  text-align: center;
+}
+
+.stuff:hover {
+  background-color: yellow;
+}
